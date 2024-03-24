@@ -1,0 +1,9 @@
+/venv/
+/__pycache__/
+.env
+*.pyc
+/media/
+/static/
+__pycache__
+remove_comments.py
+/remove_comments.py
