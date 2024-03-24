@@ -70,12 +70,31 @@ To run this project locally, follow these steps:
 
     bashCopy code
 
+
     `python manage.py runserver`
 
 
-
-6.  Access the application:
+7.  Access the application:
 
     Visit `http://localhost:8000` in your web browser to access the web application.
+
+
+
+
+
+
+
+
+
+<img width="1308" alt="Screenshot 2024-03-25 at 12 20 49 AM" src="https://github.com/sachnaror/Recipe_CRUD_Django_Boot/assets/9551754/9dbbfdb0-21b7-4741-aa64-0da232247c3f">
+
+
+<img width="1097" alt="Screenshot 2024-03-25 at 3 50 01 AM" src="https://github.com/sachnaror/Recipe_CRUD_Django_Boot/assets/9551754/6f1ee4d5-f1e6-4232-91a7-710daf28c3e7">
+
+
+<img width="1079" alt="Screenshot 2024-03-25 at 3 45 26 AM" src="https://github.com/sachnaror/Recipe_CRUD_Django_Boot/assets/9551754/0e9ce205-dcd8-4e8e-9bd1-1097b6aa8a67">
+
+
+<img width="970" alt="Screenshot 2024-03-25 at 3 41 22 AM" src="https://github.com/sachnaror/Recipe_CRUD_Django_Boot/assets/9551754/2302b625-6049-43ea-b5b2-9d325039b41e">
 
 
