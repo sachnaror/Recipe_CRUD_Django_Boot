@@ -29,16 +29,6 @@ To run this project locally, follow these steps:
    git clone https://github.com/sachnaror/Recipe_CRUD_Django_Boot.git
 
 
-
-
-
-
-`# Recipe CRUD Web Application with Django and Bootstrap
-
-This is a web application built with Django and Bootstrap that allows users to perform CRUD (Create, Read, Update, Delete) operations on recipes. Users can add new recipes, view existing ones, edit them, and delete them as needed.
-
-
-
 ## Features
 
 - **Create:** Add new recipes with details like title, ingredients, instructions, and an optional image.
