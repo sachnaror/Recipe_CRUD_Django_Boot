@@ -64,28 +64,28 @@ To run this project locally, follow these steps:
    git clone https://github.com/sachnaror/Recipe_CRUD_Django_Boot.git `
 
 
-1.  Navigate to the project directory:
+2.  Navigate to the project directory:
 
     bashCopy code
 
     `cd Recipe_CRUD_Django_Boot`
 
 
-2.  Install dependencies:
+3.  Install dependencies:
 
     bashCopy code
 
     `pip install -r requirements.txt`
 
 
-3.  Run migrations:
+4.  Run migrations:
 
     bashCopy code
 
     `python manage.py migrate`
 
 
-4.  Create a superuser (admin):
+5.  Create a superuser (admin):
 
     bashCopy code
 
@@ -103,36 +103,5 @@ To run this project locally, follow these steps:
 6.  Access the application:
 
     Visit `http://localhost:8000` in your web browser to access the web application.
-
-
-Contributing
-------------
-
-Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
-
-License
--------
-
-This project is licensed under the MIT License.
-
-Acknowledgments
----------------
-
-Special thanks to the contributors of Django and Bootstrap for their fantastic work.
-
-vbnetCopy code
-
- `In this README, I assumed a few things:
-
-- The project is a CRUD web application for managing recipes.
-- It uses Django for the backend and Bootstrap for the frontend.
-- SQLite is used as the database management system.
-- Python is used for backend logic.
-- Instructions for setting up the project locally are provided.
-- Contributions are welcomed, and there's a section for acknowledgments and licensing information.
-
-
-
-You can adjust this README according to your specific project requirements and features. Also, make sure to include relevant screenshots or images to make it more visually appealing and informative.`
 
 
