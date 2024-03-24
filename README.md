@@ -85,10 +85,6 @@ To run this project locally, follow these steps:
 
 
 
-
-<img width="1308" alt="Screenshot 2024-03-25 at 12 20 49 AM" src="https://github.com/sachnaror/Recipe_CRUD_Django_Boot/assets/9551754/9dbbfdb0-21b7-4741-aa64-0da232247c3f">
-
-
 <img width="1097" alt="Screenshot 2024-03-25 at 3 50 01 AM" src="https://github.com/sachnaror/Recipe_CRUD_Django_Boot/assets/9551754/6f1ee4d5-f1e6-4232-91a7-710daf28c3e7">
 
 
