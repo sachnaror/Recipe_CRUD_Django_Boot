@@ -1,4 +1,4 @@
-# Recipe CRUD Web Application with Django and Bootstrap
+# Recipe CRUD Web App -> Django + Bootstrap
 
 This is a web application built with Django and Bootstrap that allows users to perform CRUD (Create, Read, Update, Delete) operations on recipes. Users can add new recipes, view existing ones, edit them, and delete them as needed.
 
