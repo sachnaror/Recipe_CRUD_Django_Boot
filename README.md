@@ -19,22 +19,6 @@ This is a web application built with Django and Bootstrap that allows users to p
 - **HTML/CSS:** Markup and styling languages for structuring and designing web pages.
 - **Python:** Backend programming language used for server-side logic.
 
-## Setup
-
-To run this project locally, follow these steps:
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/sachnaror/Recipe_CRUD_Django_Boot.git
-
-
-## Features
-
-- **Create:** Add new recipes with details like title, ingredients, instructions, and an optional image.
-- **Read:** View existing recipes with all their details.
-- **Update:** Edit existing recipes to modify details.
-- **Delete:** Remove unwanted recipes from the database.
 
 ## Technologies Used
 
