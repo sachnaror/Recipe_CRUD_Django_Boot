@@ -2,7 +2,7 @@
 
 This is a web application built with Django and Bootstrap that allows users to perform CRUD (Create, Read, Update, Delete) operations on recipes. Users can add new recipes, view existing ones, edit them, and delete them as needed.
 
-![Screenshot](screenshot.png)
+
 
 ## Features
 
@@ -31,15 +31,13 @@ To run this project locally, follow these steps:
 
 
 
-Below is an example of a well-structured README.md file for the GitHub repository you provided:
 
-markdownCopy code
 
 `# Recipe CRUD Web Application with Django and Bootstrap
 
 This is a web application built with Django and Bootstrap that allows users to perform CRUD (Create, Read, Update, Delete) operations on recipes. Users can add new recipes, view existing ones, edit them, and delete them as needed.
 
-![Screenshot](screenshot.png)
+
 
 ## Features
 
@@ -65,7 +63,6 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/sachnaror/Recipe_CRUD_Django_Boot.git `
 
-![](https://storage.googleapis.com/pieces-web-extensions-cdn/copy.png)Copy![](https://storage.googleapis.com/pieces-web-extensions-cdn/pieces.png)Save![](https://storage.googleapis.com/pieces-web-extensions-cdn/link.png)Share![](https://storage.googleapis.com/pieces-web-extensions-cdn/copilot.png)Ask Copilot![](https://storage.googleapis.com/pieces-web-extensions-cdn/settings.png)
 
 1.  Navigate to the project directory:
 
@@ -73,7 +70,6 @@ To run this project locally, follow these steps:
 
     `cd Recipe_CRUD_Django_Boot`
 
-    ![](https://storage.googleapis.com/pieces-web-extensions-cdn/copy.png)Copy![](https://storage.googleapis.com/pieces-web-extensions-cdn/pieces.png)Save![](https://storage.googleapis.com/pieces-web-extensions-cdn/link.png)Share![](https://storage.googleapis.com/pieces-web-extensions-cdn/copilot.png)Ask Copilot![](https://storage.googleapis.com/pieces-web-extensions-cdn/settings.png)
 
 2.  Install dependencies:
 
@@ -81,7 +77,6 @@ To run this project locally, follow these steps:
 
     `pip install -r requirements.txt`
 
-    ![](https://storage.googleapis.com/pieces-web-extensions-cdn/copy.png)Copy![](https://storage.googleapis.com/pieces-web-extensions-cdn/pieces.png)Save![](https://storage.googleapis.com/pieces-web-extensions-cdn/link.png)Share![](https://storage.googleapis.com/pieces-web-extensions-cdn/copilot.png)Ask Copilot![](https://storage.googleapis.com/pieces-web-extensions-cdn/settings.png)
 
 3.  Run migrations:
 
@@ -89,7 +84,6 @@ To run this project locally, follow these steps:
 
     `python manage.py migrate`
 
-    ![](https://storage.googleapis.com/pieces-web-extensions-cdn/copy.png)Copy![](https://storage.googleapis.com/pieces-web-extensions-cdn/pieces.png)Save![](https://storage.googleapis.com/pieces-web-extensions-cdn/link.png)Share![](https://storage.googleapis.com/pieces-web-extensions-cdn/copilot.png)Ask Copilot![](https://storage.googleapis.com/pieces-web-extensions-cdn/settings.png)
 
 4.  Create a superuser (admin):
 
@@ -97,7 +91,6 @@ To run this project locally, follow these steps:
 
     `python manage.py createsuperuser`
 
-    ![](https://storage.googleapis.com/pieces-web-extensions-cdn/copy.png)Copy![](https://storage.googleapis.com/pieces-web-extensions-cdn/pieces.png)Save![](https://storage.googleapis.com/pieces-web-extensions-cdn/link.png)Share![](https://storage.googleapis.com/pieces-web-extensions-cdn/copilot.png)Ask Copilot![](https://storage.googleapis.com/pieces-web-extensions-cdn/settings.png)
 
 5.  Run the development server:
 
@@ -105,11 +98,12 @@ To run this project locally, follow these steps:
 
     `python manage.py runserver`
 
-    ![](https://storage.googleapis.com/pieces-web-extensions-cdn/copy.png)Copy![](https://storage.googleapis.com/pieces-web-extensions-cdn/pieces.png)Save![](https://storage.googleapis.com/pieces-web-extensions-cdn/link.png)Share![](https://storage.googleapis.com/pieces-web-extensions-cdn/copilot.png)Ask Copilot![](https://storage.googleapis.com/pieces-web-extensions-cdn/settings.png)
+
 
 6.  Access the application:
 
     Visit `http://localhost:8000` in your web browser to access the web application.
+
 
 Contributing
 ------------
@@ -137,4 +131,8 @@ vbnetCopy code
 - Instructions for setting up the project locally are provided.
 - Contributions are welcomed, and there's a section for acknowledgments and licensing information.
 
+
+
 You can adjust this README according to your specific project requirements and features. Also, make sure to include relevant screenshots or images to make it more visually appealing and informative.`
+
+
